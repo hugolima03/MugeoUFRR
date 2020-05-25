@@ -15,5 +15,8 @@ DATA | DESCRIÇÂO | HORAS
 20/05.2020 | Pesquisando meios para produção da página Acervo |
 20/05.2020 | Desenvolvendo Acervo através de posts |
 20/05.2020 | Implementando sistema de Libras no site |
-20/05.2020 | Implementando sistema de busca provisório
+20/05.2020 | Implementando sistema de busca provisório |
+22/05.2020 | Desenvolvento página de Blog
+22/05.2020 | Implementando novo tipo de formulário para a página de contato |
+
 
